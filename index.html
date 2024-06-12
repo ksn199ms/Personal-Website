@@ -550,7 +550,7 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p> Let's connect! Drop me a message using the form below for inquiries, collaborations, or to simply chat. <br> <span class="text-danger">*CURRENTLY FORM IS NOT WORKING*</span></p>
+          <p> Let's connect! Drop me a message using the form below for inquiries, collaborations, or to simply chat.</p>
         </div>
 
         <div class="row" data-aos="fade-in">
@@ -581,31 +581,26 @@
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="https://formspree.io/f/myyrrwdv" method="post" role="form" >
               <div class="row">
                 <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
+                  <label for="name" class="text-primary">Your Name</label>
                   <input type="text" name="name" class="form-control" id="name" required>
                 </div>
                 <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
+                  <label for="name" class="text-primary">Your Email</label>
                   <input type="email" class="form-control" name="email" id="email" required>
                 </div>
               </div>
               <div class="form-group">
-                <label for="name">Subject</label>
+                <label for="name" class="text-primary" style="padding-top: 20px;">Subject</label>
                 <input type="text" class="form-control" name="subject" id="subject" required>
               </div>
-              <div class="form-group">
-                <label for="name">Message</label>
+              <div class="form-group" >
+                <label for="name" class="text-primary" style="padding-top: 20px;">Message</label>
                 <textarea class="form-control" name="message" rows="10" required></textarea>
               </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center pt-3"><button class="btn btn-primary mt-3" type="submit" >Send Message</button></div>
             </form>
           </div>
 

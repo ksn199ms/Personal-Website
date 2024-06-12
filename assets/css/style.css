@@ -1106,3 +1106,19 @@ section {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: large;
 }
+
+#name{
+  background-color: whitesmoke;
+}
+
+#email{
+  background-color: whitesmoke;
+}
+
+#subject{
+  background-color: whitesmoke;
+}
+
+ .form-control{
+  background-color:whitesmoke ;
+ }
