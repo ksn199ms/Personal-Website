@@ -11,7 +11,7 @@ I am Muhammed Mubashir V, currently a second-year student in my 4th semester at 
 
 ## Website-Sample
 
-![website-gif](https://github.com/ksn199ms/Personal-Website/assets/111977017/4e7a7ec6-413f-4486-907c-9bd4dea196bf)
+![website-demo](https://github.com/ksn199ms/Personal-Website/assets/111977017/d92b2115-36ca-449b-8311-72ae29db3b7d)
 ## Screenshots
 
 ![Screenshot 2024-06-17 112706](https://github.com/ksn199ms/Personal-Website/assets/111977017/207347c9-1155-47a8-8a50-9a0bb5dbcb09)
