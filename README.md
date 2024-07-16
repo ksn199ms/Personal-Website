@@ -20,10 +20,6 @@ I am Muhammed Mubashir V, currently a second-year student in my 4th semester at 
 
 ![Screenshot 2024-06-10 210542](https://github.com/ksn199ms/Personal-Website/assets/111977017/ed2cfdfb-d368-40f8-b130-538027243a06)
 
-
-## Design 
-
-Inspired from iportfolio
 ## Feedback
 
 If you have any feedback, please reach out to us at mubashirpannur123@gmail.com
